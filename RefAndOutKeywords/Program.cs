@@ -48,7 +48,7 @@ namespace RefAndOutKeywords
         }
         static int Carpma2(out int number1, ref int number2)
         {
-            number1 = 2; // out için burda setleme yapmak zorundayız.
+            number1 = 2; // Out anahtar kelimesi için burda setleme yapmak zorundayız.
             number2 = 5;
             int sonuc = number1 * number2;
             return sonuc;
