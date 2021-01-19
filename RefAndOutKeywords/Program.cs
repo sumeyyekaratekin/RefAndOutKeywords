@@ -11,7 +11,7 @@ namespace RefAndOutKeywords
             int sonuc1 = Carpma(x, y);
 
             Console.WriteLine("Başlangıçta ;  5 * 15  = "+sonuc1); // bu satırda 10 çıktısını alırız. 
-                                   //biz değer tipli olarak methoda gönderdik.
+                                     //biz değer tipli olarak methoda gönderdik.
             
             Console.WriteLine("\nRef anahtar kelimesi ile ");
             int a = 1; 
